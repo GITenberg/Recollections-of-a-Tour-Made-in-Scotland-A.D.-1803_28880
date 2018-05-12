@@ -1,0 +1,100 @@
+_repo: Recollections-of-a-Tour-Made-in-Scotland-A.D.-1803_28880
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wordsworth, Dorothy
+    birthdate: 1771
+    deathdate: 1855
+    gutenberg_agent_id: '33567'
+    url: http://www.gutenberg.org/2009/agents/33567
+    wikipedia: http://en.wikipedia.org/wiki/Dorothy_Wordsworth
+  editor:
+    agent_name: Shairp, John Campbell
+    aliases:
+    - Shairp, Principal
+    - Shairp, J. C. (John Campbell)
+    birthdate: 1819
+    deathdate: 1885
+    gutenberg_agent_id: '9860'
+    url: http://www.gutenberg.org/2009/agents/9860
+description: "Recollections of a Tour Made in Scotland, A. D. 1803 (1874) is a travel\
+  \ memoir by Dorothy Wordsworth about a six-week, 663-mile journey through the Scottish\
+  \ Highlands from August–September 1803 with her brother William Wordsworth and mutual\
+  \ friend Samuel Taylor Coleridge. Some have called it \"undoubtedly her masterpiece\"\
+  \ and one of the best Scottish travel literature accounts during a period in the\
+  \ late 18th and early 19th centuries which saw hundreds of such examples. It is\
+  \ often compared as the Romantic counterpart to the better-known Enlightenment-era\
+  \ A Journey to the Western Islands of Scotland (1775) by Samuel Johnson written\
+  \ about 27 years earlier. Dorothy wrote Recollections for family and friends and\
+  \ never saw it published in her lifetime.\nThe three travelers were important authors\
+  \ in the burgeoning Romanticism movement and thus the trip itinerary was in part\
+  \ a literary pilgrimage to the places associated with Scottish figures significant\
+  \ to Romanticists such as Robert Burns, Ossian, Rob Roy, William Wallace, and contemporary\
+  \ Sir Walter Scott. Dorothy's descriptions and judgments of the countryside and\
+  \ landscapes were a mixture of her own personal aesthetics and the in-fashion aesthetics\
+  \ of the sublime, beautiful and picturesque—in fact Recollections is considered\
+  \ today a classic of picturesque travel writing.\nVenturing to Scotland in 1803\
+  \ was not an easy trip and the thirty-year-old Dorothy would experience much of\
+  \ the rougher nature of Scottish life. Scotland had become depopulated in areas\
+  \ from emigration throughout the 18th century and the remaining rural Scots existed\
+  \ in a preindustrial lifestyle more reminiscent of the Middle Ages than modern times.\
+  \ The roads were poor and dangerous or mere cattle-paths requiring a local guide.\
+  \ Dorothy notes the road quality along each segment from \"most excellent\", \"\
+  roughish\", to \"very bad\" to \"wretchedly bad\". Finding a place to sleep meant\
+  \ finding a public house along the road, which could range from a pleasant inn by\
+  \ English standards, to a dirty and smoky peasants hut with no glass windows nor\
+  \ chimney and a dirt floor. More than once the Wordsworths were refused a room for\
+  \ the night [ such as the Arrochar Hotel] after dark in the rain with miles to the\
+  \ next town; however this was contrasted by the kindness and generosity of others,\
+  \ the MacFarlane's at Loch Katrine.[7] Food in 19th century Scotland along the road\
+  \ ranged from boiled fowl and egg on the high end to whey and oat bread on the low\
+  \ end (or none at all in some cases), although \"A boiled sheep's head, with the\
+  \ hair singed off\" was a true Scottish fare savored.\nMost of the trip was in a\
+  \ jaunting car, an Irish open-air two-wheeled cart drawn by a single horse—which\
+  \ because of the poor roads in practice meant going most of the way on foot. Compared\
+  \ to the more fashionable chaise which other travelers took to Scotland, the jaunting\
+  \ car was a plain and exposed vehicle, which the Wordsworths preferred as they could\
+  \ be travelers instead of tourists and remain approachable to the people of Scotland.\
+  \ There was a central luggage box and two seats facing back to back in which the\
+  \ riders' feet were a foot off the ground. As an Irish design, it was an unusual\
+  \ sight and brought a lot of attention along the way, in part because of rumors\
+  \ circulating at the time that Ireland might soon invade Scotland.\nDorothy wrote\
+  \ the journal over a 20-month period starting in September 1803. \"I had written\
+  \ it for the sake of Friends who could not be with us at the time\". Her friends\
+  \ admired her Recollections and it soon began to circulate and talk of publication\
+  \ became inevitable. In 1822 Dorothy put together a more refined version, she had\
+  \ lost the original and it was completed from memory, but a publisher was never\
+  \ located.[7] It would not be until 1874, nearly 20 years after her death in 1855,\
+  \ that John Campbell Shairp would publish it for the first time. It sold so well\
+  \ a second edition came soon after including one in the US. Then a third edition\
+  \ in 1894, and then another in 1897. In 1941 it was recognized again when Ernest\
+  \ de Selincourt published a new edition and deemed Recollections \"one of the most\
+  \ delightful of all books of travel, and it is, undoubtedly her masterpiece.\".\
+  \ In 1997 Yale University Press published an edition by Carol Kyros Walker which\
+  \ is the current definitive edition with hundreds of photographs of Scotland, maps,\
+  \ footnotes and scholarly commentary.(6) There are further versions available including\
+  \ Recollections of a Tour Made in Scotland, A. D. 1803 revised second edition published\
+  \ 2014. This is a paperback with maps and color illustrations of the areas where\
+  \ Dorothy visited with William and Samuel Coleridge.(ISBN 978-0957344327 )\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2009-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28880'
+  wikidata: Q7302690
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wordsworth, Dorothy, 1771-1855 -- Travel -- Scotland'
+- !lcc 'DA'
+- !lcsh 'Scotland -- Description and travel'
+title: Recollections of a Tour Made in Scotland A.D. 1803
+url: http://www.gutenberg.org/ebooks/28880
+wikipedia:
+- https://en.wikipedia.org/wiki/Recollections_of_a_Tour_Made_in_Scotland,_A._D._1803
+- https://nl.wikipedia.org/wiki/Recollections_of_a_Tour_Made_in_Scotland,_A._D._1803
