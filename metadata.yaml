@@ -80,6 +80,8 @@ description: "Recollections of a Tour Made in Scotland, A. D. 1803 (1874) is a t
   \ 2014. This is a paperback with maps and color illustrations of the areas where\
   \ Dorothy visited with William and Samuel Coleridge.(ISBN 978-0957344327 )\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28880#Recollections-of-a-Tour-Made-in-Scotland-A.D.-1803
 gutenberg_issued: '2009-05-19'
 gutenberg_type: Text
 identifiers:
